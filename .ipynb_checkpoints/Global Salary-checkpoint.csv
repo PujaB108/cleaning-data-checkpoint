@@ -1,4 +1,4 @@
-Index,Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Race
+Unnamed: 0,Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Race
 0,32,Male,Bachelor's Degree,Software Engineer,5,90000,UK,White
 1,28,Female,Master's Degree,Data Analyst,3,65000,USA,Hispanic
 2,45,Male,PhD,Senior Manager,15,150000,Canada,White
@@ -257,6 +257,7 @@ Index,Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Ra
 256,34,Female,Master's Degree,Senior Financial Advisor,6,100000,Australia,Australian
 257,35,Male,Bachelor's Degree,Senior Project Coordinator,9,95000,UK,Asian
 258,50,Female,PhD,Director of Operations,22,180000,Australia,White
+259,29,Male,Bachelor's Degree,Junior Business Operations Analyst,1,350,USA,Hispanic
 261,37,Female,Bachelor's Degree,Senior Financial Manager,10,120000,USA,African American
 262,46,Male,PhD,Senior Data Scientist,18,160000,China,Chinese
 263,31,Female,Bachelor's Degree,Junior Marketing Coordinator,3,50000,Australia,White
@@ -1817,6 +1818,7 @@ Index,Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Ra
 1887,39,Female,Master's Degree,Software Engineer Manager,12,160000,UK,Welsh
 1888,30,Male,Bachelor's Degree,Back end Developer,5,100000,Canada,Black
 1889,46,Male,PhD,Senior Project Engineer,15,180000,China,Chinese
+1890,25,Female,Bachelor's Degree,Front end Developer,1,550,UK,Mixed
 1891,29,Male,Bachelor's Degree,Front end Developer,4,90000,Australia,White
 1892,40,Female,Master's Degree,Software Engineer Manager,12,160000,USA,Hispanic
 1893,27,Female,Bachelor's Degree,Back end Developer,3,80000,UK,White
@@ -2543,6 +2545,7 @@ Index,Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Ra
 2650,45,Female,PhD,Software Engineer Manager,23,172925,UK,Mixed
 2651,32,Male,Master's Degree,Senior Project Engineer,9,126916,UK,Mixed
 2653,26,Female,Master's Degree,Front end Developer,4,76898,UK,White
+2654,23,Male,PhD,Software Engineer Manager,1,579,UK,Mixed
 2655,26,Female,Bachelor's Degree,Software Engineer,2,65000,UK,Asian
 2656,33,Male,Master's Degree,Data Analyst,8,120000,Australia,Asian
 2657,29,Female,Bachelor's Degree,Product Manager,4,90000,Australia,Asian
@@ -4479,6 +4482,7 @@ Index,Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Ra
 4630,42,Male,PhD,Director of HR,14,130000,Australia,Australian
 4631,34,Female,Master's Degree,Director of HR,9,95000,Australia,White
 4632,28,Male,High School,Junior Web Developer,2,43000,USA,African American
+4633,31,Female,Bachelor's Degree,Junior HR Coordinator,4,500,USA,Asian
 4634,27,Female,Bachelor's Degree,Junior Software Engineer,1,45000,USA,White
 4635,33,Male,Master's Degree,Senior Data Scientist,8,120000,China,Korean
 4636,29,Female,Bachelor's Degree,Marketing Coordinator,3,55000,USA,African American
@@ -5092,7 +5096,7 @@ Index,Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Ra
 5244,33,Male,Bachelor's Degree,Marketing Manager,7,110000,Australia,Asian
 5245,24,Female,High School,Sales Associate,0,25000,Canada,Asian
 5246,30,Male,Master's Degree,Financial Analyst,6,100000,Australia,Asian
-5247,26,Female,Bachelor's Degree,Social M,7,115000,USA,White
+5247,26,Female,Bachelor's Degree,Social M,8,115000,USA,White
 5248,28,Male,Bachelor's Degree,Software Engineer,3,85000,Canada,Asian
 5249,36,Female,Master's Degree,Marketing Director,11,160000,China,White
 5250,25,Male,Bachelor's Degree,Financial Analyst,1,55000,USA,Hispanic
